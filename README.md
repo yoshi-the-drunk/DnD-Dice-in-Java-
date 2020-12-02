@@ -7,5 +7,5 @@ I made this as a tiny programming exercise where I made dice for DnD. You can ro
 
 1. Place both the Main.java and Dice.java files in the same directory.
 2. Open up a command prompt and navigate to the directory using the cd command.
-3. Type "javac Main.java" (This will build the program into something that can be executed using the command line.
+3. Type "javac Main.java" (This will build the program into something that can be executed using the command line.)
 4. Run the program using the command "java Main"
